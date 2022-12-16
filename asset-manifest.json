@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/christmas-app/static/css/main.073c9b0a.css",
-    "main.js": "/christmas-app/static/js/main.b04e1618.js",
+    "main.css": "/christmas-app/static/css/main.7f0ae892.css",
+    "main.js": "/christmas-app/static/js/main.b793fdae.js",
     "static/js/787.a35ddaa5.chunk.js": "/christmas-app/static/js/787.a35ddaa5.chunk.js",
-    "static/media/logo.svg": "/christmas-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/006.jpg": "/christmas-app/static/media/006.cccefb54a852a579db2a.jpg",
+    "static/media/004.jpg": "/christmas-app/static/media/004.c205cd2d6bf0286ee652.jpg",
+    "static/media/003.jpg": "/christmas-app/static/media/003.15dc56e7062d4cfc61cf.jpg",
+    "static/media/010.jpg": "/christmas-app/static/media/010.ab38c7196cdf5b4860c3.jpg",
+    "static/media/011.jpg": "/christmas-app/static/media/011.846618dbd21b814a270e.jpg",
+    "static/media/002.jpg": "/christmas-app/static/media/002.0cbe8b8df6b805ab3858.jpg",
+    "static/media/005.jpg": "/christmas-app/static/media/005.418fa3d8f9b02ffb36da.jpg",
+    "static/media/007.jpg": "/christmas-app/static/media/007.77f2f54afb2716c44a9c.jpg",
+    "static/media/001.jpg": "/christmas-app/static/media/001.6fd8c79a305103cf604d.jpg",
+    "static/media/008.jpg": "/christmas-app/static/media/008.a511f82b5f5cf5233472.jpg",
+    "static/media/009.jpg": "/christmas-app/static/media/009.a95787ab555d2dbd18b2.jpg",
     "index.html": "/christmas-app/index.html",
-    "main.073c9b0a.css.map": "/christmas-app/static/css/main.073c9b0a.css.map",
-    "main.b04e1618.js.map": "/christmas-app/static/js/main.b04e1618.js.map",
+    "main.7f0ae892.css.map": "/christmas-app/static/css/main.7f0ae892.css.map",
+    "main.b793fdae.js.map": "/christmas-app/static/js/main.b793fdae.js.map",
     "787.a35ddaa5.chunk.js.map": "/christmas-app/static/js/787.a35ddaa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b04e1618.js"
+    "static/css/main.7f0ae892.css",
+    "static/js/main.b793fdae.js"
   ]
 }
