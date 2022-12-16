@@ -1,44 +1,13 @@
 .App {
     text-align: center;
+    background-color: #eaeaf5;
 }
 
 .App-header {
     background-color: #282c34;
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: calc(10px + 2vmin);
     color: white;
-}
-
-.App-link {
-    color: #61dafb;
-}
-
-.each-slide-effect > div {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-size: cover;
-    max-width: 1200px;
-    max-height: 600px;
-}
-
-.each-slide-effect span {
-    padding: 20px;
-    font-size: 20px;
-    background: #efefef;
-    text-align: center;
-}
-
-.slide-container {
-    margin: auto;
-    width: 70%;
-    /*border: 3px solid #282c34;*/
-    padding: 10px;
 }

@@ -1,25 +1,33 @@
 import './App.css';
-import React from 'react';
+import React, { useState } from 'react';
 import { Slideshow } from './components/Slideshow';
+import ToggleButton from 'react-bootstrap/ToggleButton';
 
 function App () {
+
+	const [autoPlay, setAutoPlay] = useState(true);
+
 	return (
 		<div className="App">
-			{/*<header className="App-header">*/}
-			{/*	<img src={logo} className="App-logo" alt="logo"/>*/}
-			{/*	<p>*/}
-			{/*		Edit <code>src/App.js</code> and save to reload.*/}
-			{/*	</p>*/}
-			{/*	<a*/}
-			{/*		className="App-link"*/}
-			{/*		href="https://reactjs.org"*/}
-			{/*		target="_blank"*/}
-			{/*		rel="noopener noreferrer"*/}
-			{/*	>*/}
-			{/*		Learn React*/}
-			{/*	</a>*/}
-			{/*</header>*/}
-			<Slideshow/>
+			<div className="App-header" style={{ padding: '20px' }}>
+				Merry Christmas my love
+				<br/>
+				Here are just some of the amazing memories we're made this year.
+				I can't wait for many more :)
+				<br/>
+			</div>
+			<div style={{ padding: '20px' }}>
+				<label>Autoplay </label>
+				<ToggleButton
+					id="toggle-check"
+					type="checkbox"
+					variant="secondary"
+					value="1"
+					checked={autoPlay}
+					onChange={() => setAutoPlay(!autoPlay)}
+				/>
+			</div>
+			<Slideshow autoPlay={autoPlay}/>
 		</div>
 	);
 }
