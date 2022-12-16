@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/christmas-app/static/css/main.7f0ae892.css",
-    "main.js": "/christmas-app/static/js/main.b793fdae.js",
+    "main.js": "/christmas-app/static/js/main.380fa960.js",
     "static/js/787.a35ddaa5.chunk.js": "/christmas-app/static/js/787.a35ddaa5.chunk.js",
     "static/media/006.jpg": "/christmas-app/static/media/006.cccefb54a852a579db2a.jpg",
     "static/media/004.jpg": "/christmas-app/static/media/004.c205cd2d6bf0286ee652.jpg",
@@ -16,11 +16,11 @@
     "static/media/009.jpg": "/christmas-app/static/media/009.a95787ab555d2dbd18b2.jpg",
     "index.html": "/christmas-app/index.html",
     "main.7f0ae892.css.map": "/christmas-app/static/css/main.7f0ae892.css.map",
-    "main.b793fdae.js.map": "/christmas-app/static/js/main.b793fdae.js.map",
+    "main.380fa960.js.map": "/christmas-app/static/js/main.380fa960.js.map",
     "787.a35ddaa5.chunk.js.map": "/christmas-app/static/js/787.a35ddaa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f0ae892.css",
-    "static/js/main.b793fdae.js"
+    "static/js/main.380fa960.js"
   ]
 }
